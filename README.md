@@ -1,2 +1,12 @@
 # Ecommerce-Website
 Fully functioning Ecommerce website
+
+
+homteq is a highly specialised retailer that offers a wide range of devices at the most competitive prices to makehome and life SMART. homteq retails many smart products to the general public and to corporate businessorganisations.The devices sold by homteq include smart security cameras that can be set up to check on your home remotely,smart energy systems that can be configured to control your home appliances from a distance, smart speakers thatuse voice-controlled assistants to provide a range of information and smart watches that can be used for a widearray of purposes, amongst many other smart products.homteq is undertaking a project that aims to analyse, design, and develop a database-driven web application toretail and manage their products and process their orders online and has hired you as a server-side developer todrive this project.The homteq Web app should be accessible by 2 types of users.homteq customers should be able to use the Web app to browse through the range of products on offer, view thedetails of single products, temporally reserving products by adding them onto a basket, signing up to create apersonal account as new customers, logging in as returning customers, and checking out to finalise their order withhomteq.homteq administrators should be able to use the system to maintain the range of devices on offer on the onlineplatform i.e., to add new products and edit details of existing products such as stock levels and prices. Administratorsshould also be able to view and process the orders that have been placed. They should be able to specify whether anorder is placed, ready to ship or has actually been shipped by modifying the status of the order. The system shouldrecord the order date and time and automatically calculate the shipping date accordingly based on the business ruledefined by homteq e.g., shipping should occur within 2 days of the order being placed
+
+
+
+![Screenshot 2023-03-27 at 11 16 32 PM](https://user-images.githubusercontent.com/108785749/228024056-095ea261-9882-4013-89aa-881f09b94756.png)
+![Screenshot 2023-03-27 at 11 16 41 PM](https://user-images.githubusercontent.com/108785749/228024066-12e55ac6-d4a0-40dd-afdd-3a211f28637f.png)
+![Screenshot 2023-03-27 at 11 16 55 PM](https://user-images.githubusercontent.com/108785749/228024074-f35c11aa-8bd2-44ba-bb58-13db1aa098df.png)
+![Screenshot 2023-03-27 at 11 17 02 PM](https://user-images.githubusercontent.com/108785749/228024078-73c8b6d6-1dae-4971-9f4e-59e069e4d6ce.png)
